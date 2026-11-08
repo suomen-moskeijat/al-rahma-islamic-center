@@ -1,0 +1,10 @@
+# Al Rahma Islamic Center – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Al Rahma Islamic Center"
+description: "Al Rahma Islamic Center, Kastelholmantie 4, Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: al-rahma-islamic-center     # tiedosto _moskeijat/al-rahma-islamic-center.md
+
+# Osoite: https://suomen-moskeijat.github.io/al-rahma-islamic-center/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/al-rahma-islamic-center"
